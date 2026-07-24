@@ -1,0 +1,19 @@
+{
+  "rewrites": [
+    { "source": "/NormalUser-PreviewFlow/:path*",  "destination": "/NormalUser-PreviewFlow/:path*" },
+    { "source": "/ORMIntegration/:path*",             "destination": "/ORMIntegration/:path*" },
+    { "source": "/(.*)",                               "destination": "/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin",  "value": "*" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET" },
+        { "key": "Cache-Control",                "value": "no-cache" }
+      ]
+    }
+  ]
+}
+
+

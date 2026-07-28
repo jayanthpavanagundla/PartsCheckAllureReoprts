@@ -5,8 +5,8 @@ import AllureLogo from "./src/Images/allurelogo.svg";
 const REPORTS = [
   {
     id: 1,
-    name: "Parts Check Functionality",
-    path: "NormalUser-PreviewFlow",
+    name: "Smoke",
+    path: "Smoke",
     description: "Preview flow testing for normal users",
     tag: "Core",
     color: "#13a538",

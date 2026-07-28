@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"210d060974fd2478a804a3b3cc1cab5c","name":"Auth-Setup","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"a845b028341a295422a463257d7fbd87","name":"Quote Creation Flow","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

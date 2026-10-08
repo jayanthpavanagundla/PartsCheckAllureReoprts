@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"aa14e5f12a2a70d15128c17dd98c1f4d","name":"partscheck-repairer-admin","statistic":{"failed":0,"broken":0,"skipped":0,"passed":7,"unknown":0,"total":7}},{"uid":"79be434270a5b819a380f5b5250b39a3","name":"repairerAdmin-setup","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
